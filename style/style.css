@@ -6,7 +6,7 @@ body{
 
 .bg {
     /* The image used */
-    background-image: url('C:/Users/Admin/Desktop/index/img/GeorgetownHeritageTour.jpg');
+    background-image: url('../img/GeorgetownHeritageTour.jpg');
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
@@ -102,7 +102,7 @@ body{
 }
 
 .pro .img{
-    background-image: url('C:/Users/Admin/Desktop/index/img/img12.jpg');
+    background-image: url('../img/img12.jpg');
   
     /* Full height */
     position: absolute;
@@ -130,6 +130,6 @@ body{
 
 @media screen and (max-width: 400px) {
     .bg{
-        font: 14vmax/.85 'Open Sans',impact;
+        font: 8vmax/.85 'Open Sans',impact;
     }
   }
