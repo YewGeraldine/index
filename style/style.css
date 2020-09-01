@@ -130,6 +130,6 @@ body{
 
 @media screen and (max-width: 400px) {
     .bg{
-        font: 18vmax/.85 'Open Sans',impact;
+        font: 14vmax/.85 'Open Sans',impact;
     }
   }
